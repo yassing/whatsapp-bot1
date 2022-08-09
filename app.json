@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/yassing/whatsapp-bot1",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -29,12 +29,12 @@
             "value":"true"
         },
        "HEROKU_API_KEY": {
-            "description": "For updating bot and setting vars remotely",
+            "description": "3062f65d-2771-467f-9e03-08d160fb851e",
             "required": true,
             "value":""
         },
         "HEROKU_APP_NAME": {
-            "description": "test54353459",
+            "description": "malie3281",
             "required": true,
             "value":""
         },

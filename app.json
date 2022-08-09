@@ -34,7 +34,7 @@
             "value":""
         },
         "HEROKU_APP_NAME": {
-            "description": "Exact name which you gave at the top",
+            "description": "test54353459",
             "required": true,
             "value":""
         },
@@ -74,7 +74,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "Raganork~c2813a293ad9f3e6caa5d63a9f2160c7:4b3944594b454f75324a4d3d",
             "required": true
              
         }

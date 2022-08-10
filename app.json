@@ -34,9 +34,9 @@
             "value":"3062f65d-2771-467f-9e03-08d160fb851e"
         },
         "HEROKU_APP_NAME": {
-            "description": "malie3281",
+            "description": "frfsdfdsf",
             "required": true,
-            "value":"malie3281"
+            "value":"frfsdfdsf"
         },
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
@@ -74,10 +74,10 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Raganork~c2813a293ad9f3e6caa5d63a9f2160c7:4b3944594b454f75324a4d3d",
-            "required": true
-            "value":"Raganork~c2813a293ad9f3e6caa5d63a9f2160c7:4b3944594b454f75324a4d3d"
-        }
+            "description": "Raganork~31e207c8fed515e27fff55befc9b5233:35784a626152417873584d3d",
+            "required": true,
+            "value":"Raganork~31e207c8fed515e27fff55befc9b5233:35784a626152417873584d3d
+"
     },
     "addons": [{
       "plan": "heroku-postgresql"
